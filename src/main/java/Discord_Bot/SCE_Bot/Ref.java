@@ -4,7 +4,7 @@ import net.dv8tion.jda.core.JDA;
 
 public class Ref {
 	//DO NOT SHOW BELOW!!!!!!!!!!!!!!//
-	public static final String token = "NTEyMzk4MTc1MTA2MjM2NDMx.Ds44CA.mdUqc7_e4AjduDk20ZaYMf1BnvE";
+	public static final String token = "";
 	//DO NOT SHOW ABOVE!!!!!!!!!!!!!!//
 	public static final String prefix = ">";
 	public static final String crtrID = "216037365829992448";
